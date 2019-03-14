@@ -28,11 +28,13 @@ After a month i finished the basics and from now on i will continue to add conte
 <h1 align="center">INSTALLATION</h1>
 <p align="center">The App is not currently available for public release</p>
 <h1 align="center">SCREENSHOTS</h1>
-<img src="https://imgur.com/PexYPM9.png" align="center" width="360" height="780">
-<img src="https://imgur.com/QWtctLS.png" align="center">
-<img src="https://imgur.com/OH9gjLT.png" align="center">
-<img src="https://imgur.com/Xv72Hjx.png" align="center">
+<p align="center">
 
+<img src="https://imgur.com/PexYPM9.png" align="center" width="360" height="780">
+<img src="https://imgur.com/QWtctLS.png" align="center" width="360" height="780">
+<img src="https://imgur.com/OH9gjLT.png" align="center" width="360" height="780">
+<img src="https://imgur.com/Xv72Hjx.png" align="center" width="360" height="780">
+</p>
 <h1 align="center">OBSERVATIONS</h1>
 <p align="center">The code has no comments at the moment</p>
 <p align="center">The App is only for android with no realase date for now</p>
