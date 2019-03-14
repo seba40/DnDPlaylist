@@ -2,7 +2,7 @@
 
 <h3 align="center"> Music Player tailored for Dungeons and Dragons Sessions </h3>
 <p align="center">
-  <img  src="https://imgur.com/Gfoeyu6">
+  <img  src="https://imgur.com/Gfoeyu6.png">
 </p>
 <h1 align="center">DESCRIPTION</h1>
 <p align="center">I recently started to play DnD and early on we had a problem with the music that we used for atmosphere . We used  playlists from youtube but it was annoying to skip songs or find other playlists . we tried using other options but in the end i decided to make an app for mobile to make our lives easier . I wanted something with features that we needed and couldn't find anywhere else.
@@ -27,9 +27,9 @@ After a month i finished the basics and from now on i will continue to add conte
 <p align="center">The App is not currently available for public release</p>
 <h1 align="center">SCREENSHOTS</h1>
 <img src="https://imgur.com/PexYPM9.png" align="center">
-<img src="https://imgur.com/QWtctLS" align="center">
-<img src="https://imgur.com/OH9gjLT" align="center">
-<img src="https://imgur.com/Xv72Hjx" align="center">
+<img src="https://imgur.com/QWtctLS.png" align="center">
+<img src="https://imgur.com/OH9gjLT.png" align="center">
+<img src="https://imgur.com/Xv72Hjx.png" align="center">
 
 <h1 align="center">OBSERVATIONS</h1>
 <p align="center">The code has no comments at the moment</p>
