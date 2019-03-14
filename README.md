@@ -8,6 +8,13 @@
 <p align="center">I recently started to play DnD and early on we had a problem with the music that we used for atmosphere . We used  playlists from youtube but it was annoying to skip songs or find other playlists . we tried using other options but in the end i decided to make an app for mobile to make our lives easier . I wanted something with features that we needed and couldn't find anywhere else.
 After a month i finished the basics and from now on i will continue to add content, features and bug fixes.  </p>
 <p>Application Features : </p>
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
+
 *  A library with over 2000 songs split in 46 playlists
 *  Quick initial loading
 *  Easy to use UI
