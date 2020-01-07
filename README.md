@@ -13,7 +13,7 @@ After a month i finished the basics and from now on i will continue to add conte
 *  A library with over 2000 songs split in 46 playlists
 *  Quick initial loading
 *  Easy to use UI
-*  The playlist are categorized
+*  The playlists are categorized
 *  Fade effect between melodies
 *  Auto play and shuffle
 *  Nice looking UI
