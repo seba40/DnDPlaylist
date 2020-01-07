@@ -16,7 +16,7 @@ After a month i finished the basics and from now on i will continue to add conte
 *  The playlist are categorized
 *  Fade effect between melodies
 *  Auto play and shuffle
-*  Nice looking UI (or so i think :) )
+*  Nice looking UI
 *  More upcoming features
 <h1 align="center">BUILT WITH</h1>
  <p align="center">  <a href="https://unity3d.com/">Unity3D </a>- Game Engine</p>
